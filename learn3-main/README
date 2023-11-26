@@ -1,0 +1,29 @@
+This Website is created for Educational PURPOSES
+About The Website
+This Website is built with HTML AND CSS
+It is Powered by Bootstrap 5.0
+This Website comprises of Just The landing Page
+it is created by Zara Andy and King Jerry(AUTHORS)
+
+The purposes of this website is to give Upcoming Front-end Developer
+The insight about how to make a website responsive to all screen sizes
+
+Bootstrap class used are
+px - padding horizontaly (left and right)
+py - padding vertically (up and down)
+fs - font-size(highest fs-1 while lowest is fs-5)
+mx - this stands for margin horizontal
+my- this stands for margin vertical
+container - this is the content wrapper, always placed at the begining of an open div or parent div
+container-fluid- this ensure that the content occupies the whole screen
+
+row- is used to create a horiontal layer
+col- column is used to create a vertical layer , which has a max number (12)
+
+Animate.CSS
+This is responsible for animation
+U can call out an animation by using the defined class name in css else it wont work.
+
+Dated: Sun. 26th November, 2023
+Signed:
+Zara Andy and King Jerry(AUTHORS)
